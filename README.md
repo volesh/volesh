@@ -3,8 +3,7 @@
 
 - 📫 How to reach me **volesh2@gmail.con**
 
-<h4 align="left">Connect with me: <a href="https://linkedin.com/in/vasyl-olesh-404009198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasyl-olesh-404009198" height="20" width="30" /></a>
-</p></h4>
+- Connect with me: <a href="https://linkedin.com/in/vasyl-olesh-404009198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasyl-olesh-404009198" height="20" width="30" /></a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
