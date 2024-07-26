@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vasyl Olesh</h1>
+<h1 align="center">Vasyl Olesh</h1>
 <h3 align="center">A passionate BackEnd developer from Ukrain 🇺🇦</h3>
 
 - 📫 How to reach me **volesh2@gmail.con**
