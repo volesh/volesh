@@ -1,7 +1,7 @@
 <h1 align="center">Vasyl Olesh</h1>
 <h3 align="center">A passionate BackEnd developer from Ukrain 🇺🇦</h3>
 
-- 📫 Reach out to me:
+📫 **Reach out to me:**
 
 ![Static Badge](https://img.shields.io/badge/Vasyl%20Olesh-%23107dac?style=flat&logo=linkedin&logoColor=white&labelColor=%23107dac&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvasyl-olesh-404009198%2F)
 ![Static Badge](https://img.shields.io/badge/Vasyl%20Olesh-%23189ad3?style=flat&logo=telegram&logoColor=white&labelColor=%23189ad3&link=https%3A%2F%2Ft.me%2Fvolesh)
