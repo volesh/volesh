@@ -1,5 +1,5 @@
 <h1 align="center">Vasyl Olesh</h1>
-<h3 align="center">A passionate BackEnd developer from Ukrain 🇺🇦</h3>
+<h3 align="center">A passionate FullStack developer from Ukrain 🇺🇦</h3>
 
 📫 **Reach out to me:**
 
